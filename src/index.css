@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Graduate&family=Roboto:wght@100;300;400&display=swap");
+@font-face {
+  font-family: Varsity;
+  src: url(./fonts/varsity_regular.ttf);
+}
+
+:root {
+    --red: #670100;
+}
+
+* {
+    margin: 0;
+}
+
+h1 {
+  font-family: Varsity, serif;
+  font-size: small;
+}
+
+h2 {
+  font-family: "Roboto", sans-serif;
+}
