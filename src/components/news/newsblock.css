@@ -1,0 +1,16 @@
+.newsblock--container {
+  background-color: var(--red);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: right;
+  padding-top: 80px;
+  padding-left: 55px;
+  padding-right: 55px;
+  color: white;
+}
+
+.newsblock--h4 {
+    padding-bottom: 8px;
+}
+

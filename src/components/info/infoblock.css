@@ -1,0 +1,23 @@
+.infoblock--container {
+    display: flex;
+    flex-direction: column;
+    padding-top: 80px;
+    padding-left: 55px;
+    padding-right: 55px;
+    background-color: black;
+    color: white;
+}
+
+.infoblock--h2 {
+    font-size: 2rem;
+}
+
+.infoblock--h3 {
+    padding-top: 24px;
+    font-weight: 400;
+    font-size: 1rem;
+}
+
+.infoblock--p {
+    padding-top: 8px;
+}

@@ -5,11 +5,11 @@
 }
 
 :root {
-    --red: #670100;
+  --red: #670100;
 }
 
 * {
-    margin: 0;
+  margin: 0;
 }
 
 h1 {
@@ -17,6 +17,18 @@ h1 {
   font-size: small;
 }
 
-h2 {
+h2,
+h3,
+h4,
+p {
   font-family: "Roboto", sans-serif;
+}
+
+p {
+  font-size: 1rem;
+  font-weight: 200;
+}
+
+.image {
+  height: 100%;
 }

@@ -1,0 +1,8 @@
+.block--container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 500px;
+    padding-left: 15px;
+    padding-right: 15px;
+}

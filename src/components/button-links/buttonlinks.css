@@ -1,0 +1,26 @@
+.buttonlinks--container {
+  background-image: url("../../assets/liberty.jpg");
+  height: 700px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttonlinks--container img {
+  filter: brightness(50%);
+}
+
+.buttonlinks--button {
+  background-color: white;
+  border-radius: 25px;
+  width: 165px;
+  text-align: center;
+  margin: 15px;
+  padding: 15px;
+  box-shadow: 5px 5px 5px rgb(142, 141, 141);
+}
+
+.buttonlinks--button:hover {
+  cursor: pointer;
+}
