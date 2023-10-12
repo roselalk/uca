@@ -1,4 +1,4 @@
-import "./InfoBlock.css";
+import "./infoblock.css";
 import "../block/block.css";
 
 function InfoBlock() {

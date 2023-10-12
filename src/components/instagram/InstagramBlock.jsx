@@ -1,5 +1,5 @@
 import "./instagramblock.css";
-import "../block/block.css";
+// import "../block/block.css";
 
 function InstagramBlock() {
   return (
