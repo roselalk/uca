@@ -1,4 +1,9 @@
 .instagramblock--container {
     background-image: url("../../assets/stunt.webp");
     height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
 }
