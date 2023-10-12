@@ -1,5 +1,5 @@
 import "./quoteblock.css";
-import "../block/block.css";
+// import "../block/block.css";
 
 function QuoteBlock() {
     
