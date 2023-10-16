@@ -1,5 +1,5 @@
 import "./buttonlinks.css";
-// import "../block/block.css";
+import "../block/block.css";
 
 function ButtonLinks() {
   return (

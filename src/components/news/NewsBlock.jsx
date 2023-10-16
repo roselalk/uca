@@ -1,5 +1,5 @@
 import "./newsblock.css";
-// import "../block/block.css";
+import "../block/block.css";
 
 function NewsBlock() {
     
